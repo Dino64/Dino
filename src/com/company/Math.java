@@ -3,7 +3,11 @@ package com.company;
 public class Math {
     public static void main(String[] args) {
         Math myApp = new Math();
+
         int a = 7;
+
+        
+
         int b = 10;
 int sum;
         sum = myApp.add(a,b);
